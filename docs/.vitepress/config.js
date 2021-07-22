@@ -70,7 +70,7 @@ module.exports = {
 				text: 'About',
 				children: [
 					{ text: 'About Me', link: '/About/AboutMe' },
-					{ text: 'Links', link: '/About/links' }
+					{ text: 'Links', link: '/About/Links' }
 				]
 			},
 			{ text: 'Download', link: '/Downloads/ComingSoon' }
