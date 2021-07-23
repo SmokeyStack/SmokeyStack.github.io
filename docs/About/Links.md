@@ -2,6 +2,28 @@
 title: Links
 ---
 
-![ComingSoon](/assets/images/ComingSoon.png)
-
-Uh oh! Looks like you stumbled upon a page that is being constructed. Don't worry, these guys are professional.
+<div id="main-page" class="plainlinks main-page">
+    <div id="mp-1" class="mp-section">
+        <div class="wiki-header" style="text-align: center;">
+            <span style="font-size: 30px;">Links</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <div class="edition-boxes" style="display: flex; flex-wrap: wrap; text-align: center; margin-bottom: 1em;">
+                <div class="edition-group" style="flex-wrap: initial; flex: auto; margin: 1px 0 1px 0;">
+                    <div class="edition-box" style="border: 1px solid #071726; flex: auto; margin: 0 1px 0 1px;">
+                        <p style="border-bottom: 1px solid #071726; font-weight: bold;">Where you can find me!</p>
+                        <div style="display: inline-block; margin: 0 0.5em 0 0.5em; vertical-align: top;">
+                            <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
+                                <a href="https://github.com/SmokeyStack" target="_blank" title="Github">
+                                    <img alt="Windows 10" src="/assets/images/Github.png" decoding="async"/>
+                                </a>
+                                <br />
+                                <b><a href="https://github.com/SmokeyStack" target="_blank" title="Github">Github</a></b>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
