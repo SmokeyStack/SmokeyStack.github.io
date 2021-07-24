@@ -21,6 +21,15 @@ title: Links
                                 <b><a href="https://github.com/SmokeyStack" target="_blank" title="Github">Github</a></b>
                             </div>
                         </div>
+                        <div style="display: inline-block; margin: 0 0.5em 0 0.5em; vertical-align: top;">
+                            <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
+                                <a href="https://twitter.com/smokeystack_" target="_blank" title="Twitter">
+                                    <img alt="Windows 10" src="/assets/images/Twitter.png" decoding="async" height="64"/>
+                                </a>
+                                <br />
+                                <b><a href="https://twitter.com/smokeystack_" target="_blank" title="Twitter">Twitter</a></b>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
