@@ -9,7 +9,7 @@ title: Add On
         </div>
         <div style="margin: 0.5em 0.8em;">
             <span style="color: #000000;">
-                Download for the add-on can be found <a href="https://github.com/SmokeyStack/FallenKingdomAddon/releases/download/Beta1.0.0.2/FallenKingdomAddon.mcaddon" target="_blank" title="Github">here</a>
+                Download for the add-on can be found <a href="https://github.com/SmokeyStack/FallenKingdomAddon/releases/download/v1.0.0.3/FallenKingdomAddon.mcaddon" target="_blank" title="Github">here</a>
             </span>
         </div>
         <div style="margin: 0.5em 0.8em;">
