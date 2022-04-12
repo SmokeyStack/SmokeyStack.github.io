@@ -1,0 +1,1 @@
+const o={key:"v-7a837add",path:"/downloads/coming_soon.html",title:"Coming Soon",lang:"en-US",frontmatter:{title:"Coming Soon"},excerpt:"",headers:[],git:{updatedTime:1649779954e3},filePathRelative:"downloads/coming_soon.md"};export{o as data};
