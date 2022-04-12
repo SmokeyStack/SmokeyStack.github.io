@@ -1,0 +1,35 @@
+:root {
+    --c-bg: #071726;
+    --c-bg-navbar: #261607;
+    --c-bg-sidebar: #261607;
+    --c-border: #261607;
+    --c-text: #FF9900;
+}
+
+.info-header {
+    background: #0F3151;
+    border: 1px solid #ccc;
+    border-bottom: 4px groove #999;
+    border-right: 4px groove #999;
+    padding: 5px;
+}
+
+.info-section {
+    background-color: #fcfcfc;
+    border: 1px solid #ccc;
+    vertical-align: top;
+    margin: 1px;
+    width: calc(100% - 4px);
+}
+
+.dw-page {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.dw-item {
+    background-color: #fcfcfc;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    text-align: center;
+}

@@ -2,15 +2,15 @@
 title: About Me
 ---
 
-<div id="main-page" class="plainlinks main-page">
-    <div id="mp-1" class="mp-section">
-        <div class="wiki-header" style="text-align: center">
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center">
             <span style="font-size: 30px">About Me</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
             <span style="color: #000000">Welcome! My online name is SmokeyStack and my real name is [REDACTED]. I have a love-hate relationship with programming. I am a Minecraft Add-On creator. I&#39;m also a wiki mod for the <a href="https://wiki.bedrock.dev/">Bedrock Add-On Wiki</a>! I'm also an org member for the <a href="https://github.com/Bedrock-OSS">Bedrock OSS.</a></span>
         </div>
-        <div class="wiki-header" style="text-align: center">
+        <div class="info-header" style="text-align: center">
             <span style="font-size: 30px">Moderating experience</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
