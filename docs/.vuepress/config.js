@@ -6,6 +6,7 @@ module.exports = {
 	description: 'This is my website',
 	theme: path.resolve(__dirname, './theme/local-theme/index.js'),
 	themeConfig: {
+		contributors: false,
 		darkMode: false,
 		sidebar: {
 			'/': [
