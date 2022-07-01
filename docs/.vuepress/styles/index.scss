@@ -33,3 +33,43 @@
     border: 1px solid rgba(0, 0, 0, 0.8);
     text-align: center;
 }
+
+.col {
+    flex-basis: 0;
+    flex-grow: 1;
+    max-width: 100%;
+}
+
+.col-3 {
+    flex: 0 0 25%;
+    max-width: 25%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.indent {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+    color: #3d454d;
+}
+
+.text-muted {
+    color: #667380!important;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.row {
+    display: flex;
+    // flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}

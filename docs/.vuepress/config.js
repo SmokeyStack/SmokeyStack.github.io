@@ -8,6 +8,7 @@ module.exports = {
     themeConfig: {
         contributors: false,
         darkMode: false,
+        lastUpdated: false,
         sidebar: {
             "/": [
                 {
@@ -19,6 +20,10 @@ module.exports = {
                     text: "Downloads",
                     collapsible: true,
                     children: ["/downloads/add_on.md", "/downloads/program.md"],
+                },
+                {
+                    text: "Blog",
+                    link: "/blog/index.md",
                 },
             ],
         },
