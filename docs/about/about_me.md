@@ -8,7 +8,7 @@ title: About Me
             <span style="font-size: 30px">About Me</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
-            <span style="color: #000000">Welcome! My online name is SmokeyStack and my real name is Sean. I have a love-hate relationship with programming. I am a Minecraft Add-On creator. I&#39;m also a wiki moderator for the <a href="https://wiki.bedrock.dev/">Bedrock Add-On Wiki</a>! I'm also an organziation member for the <a href="https://github.com/Bedrock-OSS">Bedrock OSS.</a></span>
+            <span style="color: #000000">Welcome! My online name is SmokeyStack and my real name is Sean. I have a love-hate relationship with programming. I am a Minecraft Add-On creator. I&#39;m also a wiki moderator for the <a href="https://wiki.bedrock.dev/">Bedrock Add-On Wiki</a>! I'm also an organization member for the <a href="https://github.com/Bedrock-OSS">Bedrock OSS.</a></span>
         </div>
         <div class="info-header" style="text-align: center">
             <span style="font-size: 30px">Moderation experience</span>
