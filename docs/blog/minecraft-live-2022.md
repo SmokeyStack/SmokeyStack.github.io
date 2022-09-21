@@ -27,7 +27,7 @@ Minecraft Live is an annual event hosted by Mojang Studios. It is announced that
 
 This year, expect another 30 minute pre-show that is filled with content that the community has made over the past year. This is a great way to showcase the international community rather than just the English speaking one. They'll announce more things about Minecraft Dungeons. Since I don't play that game, I can't add anymore insight on it as I, in the past, have skipped the Dungeons part of the event. They'll announce more things about their new game, Minecraft Legends, which was leaked back in 2020. They usually showcase Creator Features, whether it's new features or community tools. Then they'll announce the theme of the next major update for Minecraft. Afterwards they'll announce the winner of this year's mob vote, more on that later. Of course the order of which things happen is subject to change. Now, what's confirmed to NOT be announced is the leaked Editor Mode, more on that later as well. 
 
-(insert agnes quote)
+> "So for this Live, we have actually taken concrete actions to ensure that we really, really can fulfill these dreams, because otherwise we don't achieve the purpose and we want to give dreams. And this year, we will make sure that the features we show, will have come really far in the development process, to ensure that we truly, truly can. And of course we still will tweak them with feedback and stuff, but we will be really confident that this is gonna make it." - Agnes Larsson, Minecraft Now August 2022
 
 ### Editor Mode
 
@@ -43,8 +43,6 @@ Quick someone rig the mob vote! Jokes aside this year's mob vote is an interesti
 
 This will be held on October 14th, 2022, giving you 24 hours to vote. The results will be announced during Minecraft Live. Finally, a way to vote using in-house tools rather than rely on 3rd-party ones. Seems like Mojang really likes in-house tools nowadays.
 
-## My Opinion on the Mobs
-
 ## Conclusion
 
-Overall, I'm looking forward to this event, gives me something to be excited about for this game! I certainly will vote for [REDACTED].
+Overall, I'm looking forward to this event, gives me something to be excited about for this game!
