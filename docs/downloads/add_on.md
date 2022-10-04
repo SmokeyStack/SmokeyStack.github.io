@@ -8,9 +8,7 @@ title: Add On
             <span style="font-size: 30px;">Fallen Kingdom</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
-            <span style="color: #000000;">
-                Download for the add-on can be found <a href="https://github.com/SmokeyStack/FallenKingdomAddon/releases/latest/download/FallenKingdom.mcaddon" target="_blank" title="Github">here</a>
-            </span>
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/FallenKingdomAddon/releases/latest/download/FallenKingdom.mcaddon" target="_blank" title="Github">here</a> </span>
         </div>
         <div style="margin: 0.5em 0.8em;">
             <span style="color: #000000;">Wiki for the add-on can be found <a href="https://smokeystack.github.io/fallen-kingdom-wiki/" target="_blank" title="Github">here</a></span>
@@ -20,7 +18,33 @@ title: Add On
         </div>
     </div>
 </div>
-<div id="main-page" class="plainlinks main-page">
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center;">
+            <span style="font-size: 30px;">SmokeyStack's World Generation</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">The new 1.18 world generation is eye candy, but there are somethings that I'm not satisfied with. Inspired by other world generation mod, I aim to change world generation with this add-on!</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/smokey_gen/releases/latest/download/SmokeyGen.mcpack" target="_blank" title="Github">here</a> </span>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center;">
+            <span style="font-size: 30px;">SmokeyStack's Space (add-on) Jam</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">This add-on was made for the 8K member Jam in Bedrock Add-Ons Discord server</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">The repository can be found <a href="https://github.com/SmokeyStack/smokey_space" target="_blank" title="Github">here</a> </span>
+        </div>
+    </div>
+</div>
+<div>
     <div class="info-section">
         <div class="info-header" style="text-align: center;">
             <span style="font-size: 30px;">Axolotl Pack</span>
@@ -44,9 +68,7 @@ title: Add On
             </dl>
         </div>
         <div style="margin: 0.5em 0.8em;">
-            <span style="color: #000000;">
-                Download for the add-on can be found <a href="https://github.com/SmokeyStack/SmokeyStack.github.io/releases/download/add-on/Axolotl.mcaddon" target="_blank" title="Github">here</a>
-            </span>
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/SmokeyStack.github.io/releases/download/add-on/Axolotl.mcaddon" target="_blank" title="Github">here</a> </span>
         </div>
     </div>
 </div>
