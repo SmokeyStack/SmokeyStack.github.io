@@ -5,6 +5,28 @@ title: Blog
 # Welcome to my blog!
 
 <div class="col">
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+    <div class="indent">
+        <a href="/blog/mob-vote-2022">
+            <div class="row">
+                <div class="col-3">
+                    <img
+                        loading="lazy"
+                        class="img-fluid"
+                        src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjI=.png"
+                        alt="Thumbnail For My Thoughts on the Minecraft Live 2022 Mob Vote"
+                    />
+                </div>
+                <div class="col">
+                    <h3>My Thoughts on the Minecraft Live 2022 Mob Vote</h3>
+                    <p></p>
+                    <div>Anyone else wished it was a biome vote instead?</div>
+                    <div class="text-muted">Published: 8th October 2022</div>
+                    <p></p>
+                </div>
+            </div>
+        </a>
+    </div>
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
     <div class="indent">
         <a href="/blog/minecraft-live-2022">
