@@ -54,7 +54,7 @@ title: Links
                         <div style="display: inline-block; margin: 0 0.5em 0 0.5em; vertical-align: top;">
                             <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
                                 <a href="https://discord.com" target="_blank" title="Discord">
-                                    <img alt="Discord" src="/assets/images/Discord.png" decoding="async" height="64"/>
+                                    <img alt="Discord" src="/assets/images/discord.png" decoding="async" height="64"/>
                                 </a>
                                 <br />
                                 <b><a href="https://discord.com" target="_blank" title="Discord">SaltySean#0760</a></b>
