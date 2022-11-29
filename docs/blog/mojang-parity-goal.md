@@ -2,7 +2,7 @@
 title: What Mojang's Goal For Parity Should Be
 description: Parity update anyone?
 head:
-    - [meta, {property: og:image, content: https://smokeystack.github.io/assets/UGFyaXR5.png}]
+    - [meta, {property: og:image, content: https://smokeystack.github.io/assets/UGFyaXR5.1b2ad853.png}]
 ---
 
 # What Mojang's Goal For Parity Should Be
