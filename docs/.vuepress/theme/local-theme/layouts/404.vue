@@ -14,8 +14,8 @@ const msgs = [
   `From the hellish nether to the barren end, we've searched far and wide and still can't find the page you're looking for!`,
 ];
 const imgs = [
-  "https://github.com/SmokeyStack/SmokeyStack.github.io/blob/main/docs/public/assets/images/dark.png?raw=true",
-  "https://github.com/SmokeyStack/SmokeyStack.github.io/blob/main/docs/public/assets/images/nether.png?raw=true",
+  "https://raw.githubusercontent.com/SmokeyStack/SmokeyStack.github.io/main/docs/.vuepress/public/assets/images/dark.png",
+  "https://raw.githubusercontent.com/SmokeyStack/SmokeyStack.github.io/blob/main/docs/public/assets/images/nether.png",
 ];
 const chance = Math.floor(Math.random() * msgs.length);
 const getImg = '<img width= "750" src="' + imgs[chance] + '">';
