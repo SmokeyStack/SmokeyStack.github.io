@@ -7,7 +7,7 @@
   </div>
 </template>
 
-<script lang="ts">
+<script setup lang="ts">
 import { defineComponent } from "vue";
 const msgs = [
   `From the highest peak to the deepest depths, we've searched far and wide and still can't find the page you're looking for!`,
@@ -17,10 +17,4 @@ const imgs = ["/assets/images/dark.png", "/assets/images/nether.png"];
 const chance = Math.floor(Math.random() * msgs.length);
 const getImg = imgs[chance];
 const getMsg = msgs[chance];
-export default defineComponent({
-  setup: () => ({
-    getMsg,
-    getImg,
-  }),
-});
 </script>
