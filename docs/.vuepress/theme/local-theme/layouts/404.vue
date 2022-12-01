@@ -1,7 +1,7 @@
 <template>
   <div style="margin: auto; width: 60%; padding: 10px">
     <h1>404</h1>
-    <span v-html="getImg"></span>
+    <img :src="getImg" width="1080" />
     <blockquote>{{ getMsg }}</blockquote>
     <a :href="$site.base" aria-label="go to home"> Respawn </a>
   </div>
@@ -13,12 +13,9 @@ const msgs = [
   `From the highest peak to the deepest depths, we've searched far and wide and still can't find the page you're looking for!`,
   `From the hellish nether to the barren end, we've searched far and wide and still can't find the page you're looking for!`,
 ];
-const imgs = [
-  `https://raw.githubusercontent.com/SmokeyStack/SmokeyStack.github.io/main/docs/.vuepress/public/assets/images/dark.png`,
-  `https://raw.githubusercontent.com/SmokeyStack/SmokeyStack.github.io/main/docs/.vuepress/public/assets/images/nether.png`,
-];
+const imgs = ["/assets/images/dark.png", "/assets/images/nether.png"];
 const chance = Math.floor(Math.random() * msgs.length);
-const getImg = '<img width= "750" src="' + imgs[chance] + '">';
+const getImg = imgs[chance];
 const getMsg = msgs[chance];
 export default defineComponent({
   setup: () => ({
