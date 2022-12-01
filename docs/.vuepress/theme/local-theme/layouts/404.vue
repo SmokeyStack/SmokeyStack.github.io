@@ -1,7 +1,7 @@
 <template>
   <div style="margin: auto; width: 60%; padding: 10px">
     <h1>404</h1>
-    <img :src="getImg" width="1080" />
+    <img :src="getImg" width="100%" />
     <blockquote>{{ getMsg }}</blockquote>
     <a :href="$site.base" aria-label="go to home"> Respawn </a>
   </div>
