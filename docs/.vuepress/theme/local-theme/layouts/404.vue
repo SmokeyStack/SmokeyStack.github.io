@@ -11,7 +11,7 @@
 export default {
   data() {
     return {
-      images: ["/assets/images/dark.png", "/assets/images/nether.png"],
+      imagesList: ["/assets/images/dark.png", "/assets/images/nether.png"],
       messages: [
         "From the highest peak to the deepest depths, we've searched far and wide and still can't find the page you're looking for!",
         "From the hellish nether to the barren end, we've searched far and wide and still can't find the page you're looking for!",
@@ -21,8 +21,8 @@ export default {
     };
   },
   created() {
-    const idx = Math.floor(Math.random() * this.images.length);
-    this.selectedImage = this.images[idx];
+    const idx = Math.floor(Math.random() * this.imagesList.length);
+    this.selectedImage = this.imagesList[idx];
     this.selectedMessage = this.messages[idx];
   },
 };
