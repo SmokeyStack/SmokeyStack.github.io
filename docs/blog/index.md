@@ -7,6 +7,23 @@ title: Blog
 <div class="col">
     <hr style="height: 2px; border-width: 0; color: gray; background-color: gray;" />
     <div class="indent">
+        <a href="/blog/minecraft-recap-22">
+            <div class="row">
+                <div class="col-3">
+                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjI.png" alt="Thumbnail For Minecraft Recap 2022" />
+                </div>
+                <div class="col">
+                    <h3>What Mojang's Goal For Parity Should Be</h3>
+                    <p></p>
+                    <div>Parity update anyone?</div>
+                    <div class="text-muted">Published: 3rd January 2023</div>
+                    <p></p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <hr style="height: 2px; border-width: 0; color: gray; background-color: gray;" />
+    <div class="indent">
         <a href="/blog/mojang-parity-goal">
             <div class="row">
                 <div class="col-3">
