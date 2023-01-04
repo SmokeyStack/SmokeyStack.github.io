@@ -10,7 +10,7 @@ title: Blog
         <a href="/blog/minecraft-recap-22">
             <div class="row">
                 <div class="col-3">
-                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjI.png" alt="Thumbnail For Minecraft Recap 2022" />
+                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjI=.png" alt="Thumbnail For Minecraft Recap 2022" />
                 </div>
                 <div class="col">
                     <h3>What Mojang's Goal For Parity Should Be</h3>
