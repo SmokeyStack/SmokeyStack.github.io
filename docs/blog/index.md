@@ -16,7 +16,7 @@ title: Blog
                     <h3>What Mojang's Goal For Parity Should Be</h3>
                     <p></p>
                     <div>Parity update anyone?</div>
-                    <div class="text-muted">Published: 3rd January 2023</div>
+                    <div class="text-muted">Published: 4th January 2023</div>
                     <p></p>
                 </div>
             </div>
