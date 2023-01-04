@@ -13,9 +13,9 @@ title: Blog
                     <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjI=.png" alt="Thumbnail For Minecraft Recap 2022" />
                 </div>
                 <div class="col">
-                    <h3>What Mojang's Goal For Parity Should Be</h3>
+                    <h3>The Minecraft Recap 2022</h3>
                     <p></p>
-                    <div>Parity update anyone?</div>
+                    <div>Year in Review</div>
                     <div class="text-muted">Published: 4th January 2023</div>
                     <p></p>
                 </div>
