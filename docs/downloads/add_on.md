@@ -34,6 +34,19 @@ title: Add On
 <div>
     <div class="info-section">
         <div class="info-header" style="text-align: center;">
+            <span style="font-size: 30px;">SmokeyStack's Skyblock</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">Yes, another skyblock add-on. Best of all, you can use this pack on any world, any seed! This one takes inspiration from ilmango's skyblock series! Of course it doesn't have all the features due to Bedrock's limitation.</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/smokey_skyblock/releases/latest/download/smokey_skyblock.mcpack" target="_blank" title="Github">here</a> </span>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center;">
             <span style="font-size: 30px;">SmokeyStack's Space (add-on) Jam</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
