@@ -5,6 +5,26 @@ title: Add On
 <div>
     <div class="info-section">
         <div class="info-header" style="text-align: center;">
+            <span style="font-size: 30px;">SmokeyStack's Super Duper Graphics Pack</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/smokey_pbr/releases/latest" target="_blank" title="Github">here</a> </span>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center;">
+            <span style="font-size: 30px;">SmokeyStack's Better Bedrock</span>
+        </div>
+        <div style="margin: 0.5em 0.8em;">
+            <span style="color: #000000;">Download for the add-on can be found <a href="https://github.com/SmokeyStack/smokey_bedrock/releases/latest" target="_blank" title="Github">here</a> </span>
+        </div>
+    </div>
+</div>
+<div>
+    <div class="info-section">
+        <div class="info-header" style="text-align: center;">
             <span style="font-size: 30px;">Fallen Kingdom</span>
         </div>
         <div style="margin: 0.5em 0.8em;">
