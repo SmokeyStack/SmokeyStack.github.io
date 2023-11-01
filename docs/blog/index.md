@@ -10,7 +10,7 @@ title: Blog
         <a href="/blog/legends-modding-devlog/devlog-1">
             <div class="row">
                 <div class="col-3">
-                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/TWluZWNyYWZ0TGl2ZTIwMjM=.png" alt="Thumbnail For Minecraft Legends Modding Devlog 1" />
+                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/legends-modding/devlog-1-aW1hZ2UtMQ==.png" alt="Thumbnail For Minecraft Legends Modding Devlog 1" />
                 </div>
                 <div class="col">
                     <h3>Minecraft Legends Modding Devlog 1</h3>
