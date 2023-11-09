@@ -7,6 +7,22 @@ title: Blog
 <div class="col">
 <hr style="height: 2px; border-width: 0; color: gray; background-color: gray;" />
     <div class="indent">
+        <a href="/blog/legends-modding-devlog/devlog-2">
+            <div class="row">
+                <div class="col-3">
+                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/legends-modding/devlog-2-aW1hZ2UtOQ==.png" alt="Thumbnail For Minecraft Legends Modding Devlog 2" />
+                </div>
+                <div class="col">
+                    <h3>Minecraft Legends Modding Devlog 2</h3>
+                    <p></p>
+                    <div>Paths and Connecting buildings together</div>
+                    <div class="text-muted">Published: 8th November 2023</div>
+                    <p></p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="indent">
         <a href="/blog/legends-modding-devlog/devlog-1">
             <div class="row">
                 <div class="col-3">
