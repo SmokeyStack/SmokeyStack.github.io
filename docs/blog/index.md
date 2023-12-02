@@ -7,6 +7,22 @@ title: Blog
 <div class="col">
 <hr style="height: 2px; border-width: 0; color: gray; background-color: gray;" />
     <div class="indent">
+        <a href="/blog/bedrock-world-gen">
+            <div class="row">
+                <div class="col-3">
+                    <img loading="lazy" class="img-fluid" src="../.vuepress/public/assets/images/blog/YmVkcm9jay13b3JsZC1nZW4=.png" alt="Thumbnail For Minecraft Legends Modding Devlog 2" />
+                </div>
+                <div class="col">
+                    <h3>Minecraft Bedrock Should Adopt Minecraft Legends's Custom World Generation System</h3>
+                    <p></p>
+                    <div>Just a little rant about why Bedrock should use Legends's custom world generation system</div>
+                    <div class="text-muted">Published: 2nd December 2023</div>
+                    <p></p>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="indent">
         <a href="/blog/legends-modding-devlog/devlog-2">
             <div class="row">
                 <div class="col-3">
